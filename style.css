@@ -1,0 +1,38 @@
+.body {
+  background-image: url(https://cdn.wallpapersafari.com/12/97/ga1jWZ.jpg);
+}
+
+.reset-row {
+  background-color: rgb(101, 47, 47);
+  text-align: end;
+}
+
+.reset {
+  margin: 2rem;
+}
+
+.points-row {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.display {
+  background-color: white;
+  padding: 2rem;
+  margin-top: 5rem;
+  font-family: 'Bungee Shade', cursive;
+  color: black;
+  font-size: 3rem;
+}
+
+.button-row {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.button {
+  padding: 1rem;
+  margin: 1rem
+}
